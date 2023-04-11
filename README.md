@@ -1,4 +1,32 @@
-# kinraidee_front
+# Kin-rai-dee Front-end 
+(Original reposity work with team : https://github.com/zxTle/Kin-Rai-Dee-front)
+
+---
+
+## Random food menu 
+Random food menu then show how to cook or delivery channel for someone who is bored and doesn't know what to eat.
+
+## Responsible
+- First page 
+  - Recommend food
+  - Click food to see food info
+- Random Page
+  - Random result
+  - Food rank that people likes
+  - Button link to grab
+  - Like Button
+- Sign Up Page
+- Random History Page
+---
+
+## Developed using
+- Javascript
+- Vue.js
+- HTML
+- CSS
+- Axios
+
+---
 
 ## Project setup
 ```
@@ -22,27 +50,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-----------------------------------------
-โปรเจค Kin rai dee คือเว็บไซต์สำหรับสุ่มอาหารเพื่อคนที่ไม่รู้ว่าในวันนี้นั้นอยากจะทานอาหารเมนูอะไรดี
-โดยในเว็บใซต์เมื่อผู้ใช้ได้ทำการกดสุ่มอาหารแล้ว จะมีการแสดงทั้งวัตถุดิบและวิธีทำ สำหรับผู้ที่อยากจะประกอบ
-อาหารขึ้นเองอีกด้วย
-
-สามารถดูต้นฉบับและการ commit ได้ที่  : https://github.com/zxTle/Kin-Rai-Dee-front
-
-
-สมาชิก ได้แก่
-
-1.รหัสนิสิต 6210401244 ชื่อ นางสาวชุติกาญจน์ มงคลธนโชค
-
-2.รหัสนิสิต 6210402518 ชื่อ นางสาวอรรวินท์ หีมสุหรี
-
-3.รหัสนิสิต 6210406670 ชื่อ นางสาววริศรา ตันวิริยะวรกุล
-
-4.รหัสนิสิต 6210407978 ชื่อ นางสาวปารมี รัตนกฤษณานนท์
-
-คำแนะนำในการ install และ run โปรเจค
-
-1.เมื่อทำการ clone โปรเจคมาแล้วนั้น ให้สั่งคำสั่ง npm install เพื่อติดตั้ง dependencies
-
-2.เมื่อ install dependencies เสร็จเรียบร้อยแล้วให้ใช้คำสั่ง npm run serve เพื่อรันเว็บไซต์
